@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Draw.io
+*.bkp
+
+# Apple
+.DS_Store
